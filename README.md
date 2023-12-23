@@ -27,7 +27,7 @@ I'm currently pursuing my BSc in Software Engineering degree.<br>I'm working on 
 ---
 [![](https://visitcount.itsvg.in/api?id=1Shishir&icon=0&color=0)](https://visitcount.itsvg.in)
 
-https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
