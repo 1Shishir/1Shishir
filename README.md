@@ -24,6 +24,8 @@ I'm currently pursuing my BSc in Software Engineering degree. I'm working on and
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=1Shishir&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
+--
+
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
