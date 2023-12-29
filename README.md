@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm currently pursuing my BSc in Software Engineering degree.<br>I'm working on android (Java) <br>I've interest about web development
+# About Me:
+I'm currently pursuing my BSc in Software Engineering degree.<br>I'm working on android (Java) <br>I've worked on some machine learning projects<br>I've interest about web development
 
 
 ## 🌐 Socials:
