@@ -3,7 +3,7 @@ I'm currently pursuing my BSc in Software Engineering degree. I'm working on and
 
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shishir.hasan.5264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1shishir) [![GMail](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=gmail&logoColor=white)](https://www.linkedin.com/in/1shishir) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/shishir.hasan.5264) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/1shishir) [![GMail](https://img.shields.io/badge/Mail-%230077B5.svg?logo=gmail&logoColor=white)](mailto:hasanur.rahman.shishir.iit@gmail.com) 
 
 ## 💻 Tech Stack:
 
